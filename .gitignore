@@ -10,6 +10,7 @@ tramp
 .\#*
 
 *.pem
+*.odt
 
 /zips
 /notes
